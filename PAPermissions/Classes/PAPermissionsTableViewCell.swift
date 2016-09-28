@@ -129,7 +129,7 @@ class PAPermissionsTableViewCell: UITableViewCell {
 			self.detailsLabel.adjustsFontSizeToFitWidth = true
 		}
 		
-		self.detailsLabel.font = UIFont(name: "HelveticaNeue-Light", size: 11)
+		self.detailsLabel.font = UIFont(name: "HelveticaNeue-Light", size: 13)
 		self.detailsLabel.minimumScaleFactor = 0.1
 		self.detailsLabel.textColor = self.tintColor
 	}
